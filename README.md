@@ -2,7 +2,7 @@
 
 # 💻 SDM Coder  
 
-![GitHub Banner]([https://your-banner-image-url.com](https://www.canva.com/design/DAGUCL4xtog/yvRvThIq-1lzwttPWFHK1g/view?utm_content=DAGUCL4xtog&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06a3e2f647))  
+https://your-banner-image-url.com](https://www.canva.com/design/DAGUCL4xtog/yvRvThIq-1lzwttPWFHK1g/view?utm_content=DAGUCL4xtog&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h06a3e2f647
 
 ## 🚀 About Me  
 🎓 **BTech Student in AI & DS**  
